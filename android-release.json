@@ -1,11 +1,11 @@
 {
   "applicationId": "com.venomee.rivalsheist",
-  "versionCode": 1521,
-  "versionName": "1.0.1521",
-  "bytes": 75234395,
+  "versionCode": 1531,
+  "versionName": "1.0.1531",
+  "bytes": 75234947,
   "minSdk": 24,
   "targetSdk": 36,
-  "sha256": "6183b4af0fe86f59acb2609f6094367afa2be2e205b4b1e31a9b9a8a011b3abe",
+  "sha256": "917b25634d25039ad874714d55595b0674a3458570f61452dc835ba35240d9a8",
   "certificateSha256": "f863212a5cc6b91b7a3a92b298f087491943e1e08add0cc33b9425994dc0ab54",
-  "sourceCommit": "e6ee3705cb308452967c7aebad3e39ead51b2bec"
+  "sourceCommit": "087258ee1642054eddd346805548ef4339581420"
 }
